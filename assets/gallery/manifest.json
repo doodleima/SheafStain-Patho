@@ -1,0 +1,1181 @@
+{
+ "levels": 4,
+ "tabs": [
+  {
+   "id": "bci-her2",
+   "label": "BCI · HER2",
+   "rows": [
+    [
+     {
+      "id": "00677_test",
+      "caption": "Shown in the paper · HER2 0 · 00677_test",
+      "he": "assets/gallery/bci-her2/00677_test_he_t.jpg",
+      "pred": "assets/gallery/bci-her2/00677_test_pred_t.jpg",
+      "gt": "assets/gallery/bci-her2/00677_test_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/bci-her2/00677_test_gt.jpg",
+       "sheafstain": "assets/gallery/bci-her2/00677_test_sheafstain.jpg",
+       "dvst": "assets/gallery/bci-her2/00677_test_dvst.jpg",
+       "unistainnet": "assets/gallery/bci-her2/00677_test_unistainnet.jpg",
+       "pspstain": "assets/gallery/bci-her2/00677_test_pspstain.jpg",
+       "unsb": "assets/gallery/bci-her2/00677_test_unsb.jpg",
+       "pix2pix": "assets/gallery/bci-her2/00677_test_pix2pix.jpg",
+       "cyclegan": "assets/gallery/bci-her2/00677_test_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "00514_test",
+      "caption": "HER2 0 · 00514_test",
+      "he": "assets/gallery/bci-her2/00514_test_he_t.jpg",
+      "pred": "assets/gallery/bci-her2/00514_test_pred_t.jpg",
+      "gt": "assets/gallery/bci-her2/00514_test_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/bci-her2/00514_test_gt.jpg",
+       "sheafstain": "assets/gallery/bci-her2/00514_test_sheafstain.jpg",
+       "dvst": "assets/gallery/bci-her2/00514_test_dvst.jpg",
+       "unistainnet": "assets/gallery/bci-her2/00514_test_unistainnet.jpg",
+       "pspstain": "assets/gallery/bci-her2/00514_test_pspstain.jpg",
+       "unsb": "assets/gallery/bci-her2/00514_test_unsb.jpg",
+       "pix2pix": "assets/gallery/bci-her2/00514_test_pix2pix.jpg",
+       "cyclegan": "assets/gallery/bci-her2/00514_test_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "00342_test",
+      "caption": "HER2 0 · 00342_test",
+      "he": "assets/gallery/bci-her2/00342_test_he_t.jpg",
+      "pred": "assets/gallery/bci-her2/00342_test_pred_t.jpg",
+      "gt": "assets/gallery/bci-her2/00342_test_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/bci-her2/00342_test_gt.jpg",
+       "sheafstain": "assets/gallery/bci-her2/00342_test_sheafstain.jpg",
+       "dvst": "assets/gallery/bci-her2/00342_test_dvst.jpg",
+       "unistainnet": "assets/gallery/bci-her2/00342_test_unistainnet.jpg",
+       "pspstain": "assets/gallery/bci-her2/00342_test_pspstain.jpg",
+       "unsb": "assets/gallery/bci-her2/00342_test_unsb.jpg",
+       "pix2pix": "assets/gallery/bci-her2/00342_test_pix2pix.jpg",
+       "cyclegan": "assets/gallery/bci-her2/00342_test_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "00706_test",
+      "caption": "Shown in the paper · HER2 1+ · 00706_test",
+      "he": "assets/gallery/bci-her2/00706_test_he_t.jpg",
+      "pred": "assets/gallery/bci-her2/00706_test_pred_t.jpg",
+      "gt": "assets/gallery/bci-her2/00706_test_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/bci-her2/00706_test_gt.jpg",
+       "sheafstain": "assets/gallery/bci-her2/00706_test_sheafstain.jpg",
+       "dvst": "assets/gallery/bci-her2/00706_test_dvst.jpg",
+       "unistainnet": "assets/gallery/bci-her2/00706_test_unistainnet.jpg",
+       "pspstain": "assets/gallery/bci-her2/00706_test_pspstain.jpg",
+       "unsb": "assets/gallery/bci-her2/00706_test_unsb.jpg",
+       "pix2pix": "assets/gallery/bci-her2/00706_test_pix2pix.jpg",
+       "cyclegan": "assets/gallery/bci-her2/00706_test_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "00448_test",
+      "caption": "HER2 1+ · 00448_test",
+      "he": "assets/gallery/bci-her2/00448_test_he_t.jpg",
+      "pred": "assets/gallery/bci-her2/00448_test_pred_t.jpg",
+      "gt": "assets/gallery/bci-her2/00448_test_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/bci-her2/00448_test_gt.jpg",
+       "sheafstain": "assets/gallery/bci-her2/00448_test_sheafstain.jpg",
+       "dvst": "assets/gallery/bci-her2/00448_test_dvst.jpg",
+       "unistainnet": "assets/gallery/bci-her2/00448_test_unistainnet.jpg",
+       "pspstain": "assets/gallery/bci-her2/00448_test_pspstain.jpg",
+       "unsb": "assets/gallery/bci-her2/00448_test_unsb.jpg",
+       "pix2pix": "assets/gallery/bci-her2/00448_test_pix2pix.jpg",
+       "cyclegan": "assets/gallery/bci-her2/00448_test_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "00916_test",
+      "caption": "HER2 1+ · 00916_test",
+      "he": "assets/gallery/bci-her2/00916_test_he_t.jpg",
+      "pred": "assets/gallery/bci-her2/00916_test_pred_t.jpg",
+      "gt": "assets/gallery/bci-her2/00916_test_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/bci-her2/00916_test_gt.jpg",
+       "sheafstain": "assets/gallery/bci-her2/00916_test_sheafstain.jpg",
+       "dvst": "assets/gallery/bci-her2/00916_test_dvst.jpg",
+       "unistainnet": "assets/gallery/bci-her2/00916_test_unistainnet.jpg",
+       "pspstain": "assets/gallery/bci-her2/00916_test_pspstain.jpg",
+       "unsb": "assets/gallery/bci-her2/00916_test_unsb.jpg",
+       "pix2pix": "assets/gallery/bci-her2/00916_test_pix2pix.jpg",
+       "cyclegan": "assets/gallery/bci-her2/00916_test_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "00372_test",
+      "caption": "Shown in the paper · HER2 2+ · 00372_test",
+      "he": "assets/gallery/bci-her2/00372_test_he_t.jpg",
+      "pred": "assets/gallery/bci-her2/00372_test_pred_t.jpg",
+      "gt": "assets/gallery/bci-her2/00372_test_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/bci-her2/00372_test_gt.jpg",
+       "sheafstain": "assets/gallery/bci-her2/00372_test_sheafstain.jpg",
+       "dvst": "assets/gallery/bci-her2/00372_test_dvst.jpg",
+       "unistainnet": "assets/gallery/bci-her2/00372_test_unistainnet.jpg",
+       "pspstain": "assets/gallery/bci-her2/00372_test_pspstain.jpg",
+       "unsb": "assets/gallery/bci-her2/00372_test_unsb.jpg",
+       "pix2pix": "assets/gallery/bci-her2/00372_test_pix2pix.jpg",
+       "cyclegan": "assets/gallery/bci-her2/00372_test_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "00337_test",
+      "caption": "Shown in the paper · HER2 2+ · 00337_test",
+      "he": "assets/gallery/bci-her2/00337_test_he_t.jpg",
+      "pred": "assets/gallery/bci-her2/00337_test_pred_t.jpg",
+      "gt": "assets/gallery/bci-her2/00337_test_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/bci-her2/00337_test_gt.jpg",
+       "sheafstain": "assets/gallery/bci-her2/00337_test_sheafstain.jpg",
+       "dvst": "assets/gallery/bci-her2/00337_test_dvst.jpg",
+       "unistainnet": "assets/gallery/bci-her2/00337_test_unistainnet.jpg",
+       "pspstain": "assets/gallery/bci-her2/00337_test_pspstain.jpg",
+       "unsb": "assets/gallery/bci-her2/00337_test_unsb.jpg",
+       "pix2pix": "assets/gallery/bci-her2/00337_test_pix2pix.jpg",
+       "cyclegan": "assets/gallery/bci-her2/00337_test_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "00387_test",
+      "caption": "Shown in the paper · HER2 2+ · 00387_test",
+      "he": "assets/gallery/bci-her2/00387_test_he_t.jpg",
+      "pred": "assets/gallery/bci-her2/00387_test_pred_t.jpg",
+      "gt": "assets/gallery/bci-her2/00387_test_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/bci-her2/00387_test_gt.jpg",
+       "sheafstain": "assets/gallery/bci-her2/00387_test_sheafstain.jpg",
+       "dvst": "assets/gallery/bci-her2/00387_test_dvst.jpg",
+       "unistainnet": "assets/gallery/bci-her2/00387_test_unistainnet.jpg",
+       "pspstain": "assets/gallery/bci-her2/00387_test_pspstain.jpg",
+       "unsb": "assets/gallery/bci-her2/00387_test_unsb.jpg",
+       "pix2pix": "assets/gallery/bci-her2/00387_test_pix2pix.jpg",
+       "cyclegan": "assets/gallery/bci-her2/00387_test_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "00865_test",
+      "caption": "Shown in the paper · HER2 3+ · 00865_test",
+      "he": "assets/gallery/bci-her2/00865_test_he_t.jpg",
+      "pred": "assets/gallery/bci-her2/00865_test_pred_t.jpg",
+      "gt": "assets/gallery/bci-her2/00865_test_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/bci-her2/00865_test_gt.jpg",
+       "sheafstain": "assets/gallery/bci-her2/00865_test_sheafstain.jpg",
+       "dvst": "assets/gallery/bci-her2/00865_test_dvst.jpg",
+       "unistainnet": "assets/gallery/bci-her2/00865_test_unistainnet.jpg",
+       "pspstain": "assets/gallery/bci-her2/00865_test_pspstain.jpg",
+       "unsb": "assets/gallery/bci-her2/00865_test_unsb.jpg",
+       "pix2pix": "assets/gallery/bci-her2/00865_test_pix2pix.jpg",
+       "cyclegan": "assets/gallery/bci-her2/00865_test_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "00566_test",
+      "caption": "Shown in the paper · HER2 3+ · 00566_test",
+      "he": "assets/gallery/bci-her2/00566_test_he_t.jpg",
+      "pred": "assets/gallery/bci-her2/00566_test_pred_t.jpg",
+      "gt": "assets/gallery/bci-her2/00566_test_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/bci-her2/00566_test_gt.jpg",
+       "sheafstain": "assets/gallery/bci-her2/00566_test_sheafstain.jpg",
+       "dvst": "assets/gallery/bci-her2/00566_test_dvst.jpg",
+       "unistainnet": "assets/gallery/bci-her2/00566_test_unistainnet.jpg",
+       "pspstain": "assets/gallery/bci-her2/00566_test_pspstain.jpg",
+       "unsb": "assets/gallery/bci-her2/00566_test_unsb.jpg",
+       "pix2pix": "assets/gallery/bci-her2/00566_test_pix2pix.jpg",
+       "cyclegan": "assets/gallery/bci-her2/00566_test_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "00527_test",
+      "caption": "HER2 3+ · 00527_test",
+      "he": "assets/gallery/bci-her2/00527_test_he_t.jpg",
+      "pred": "assets/gallery/bci-her2/00527_test_pred_t.jpg",
+      "gt": "assets/gallery/bci-her2/00527_test_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/bci-her2/00527_test_gt.jpg",
+       "sheafstain": "assets/gallery/bci-her2/00527_test_sheafstain.jpg",
+       "dvst": "assets/gallery/bci-her2/00527_test_dvst.jpg",
+       "unistainnet": "assets/gallery/bci-her2/00527_test_unistainnet.jpg",
+       "pspstain": "assets/gallery/bci-her2/00527_test_pspstain.jpg",
+       "unsb": "assets/gallery/bci-her2/00527_test_unsb.jpg",
+       "pix2pix": "assets/gallery/bci-her2/00527_test_pix2pix.jpg",
+       "cyclegan": "assets/gallery/bci-her2/00527_test_cyclegan.jpg"
+      }
+     }
+    ]
+   ]
+  },
+  {
+   "id": "mist-her2",
+   "label": "MIST · HER2",
+   "rows": [
+    [
+     {
+      "id": "4M2103059_22_9",
+      "caption": "Shown in the paper · 4M2103059_22_9",
+      "he": "assets/gallery/mist-her2/4M2103059_22_9_he_t.jpg",
+      "pred": "assets/gallery/mist-her2/4M2103059_22_9_pred_t.jpg",
+      "gt": "assets/gallery/mist-her2/4M2103059_22_9_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-her2/4M2103059_22_9_gt.jpg",
+       "sheafstain": "assets/gallery/mist-her2/4M2103059_22_9_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-her2/4M2103059_22_9_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-her2/4M2103059_22_9_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-her2/4M2103059_22_9_pspstain.jpg",
+       "unsb": "assets/gallery/mist-her2/4M2103059_22_9_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-her2/4M2103059_22_9_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-her2/4M2103059_22_9_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "76M2100485_25_10",
+      "caption": "76M2100485_25_10",
+      "he": "assets/gallery/mist-her2/76M2100485_25_10_he_t.jpg",
+      "pred": "assets/gallery/mist-her2/76M2100485_25_10_pred_t.jpg",
+      "gt": "assets/gallery/mist-her2/76M2100485_25_10_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-her2/76M2100485_25_10_gt.jpg",
+       "sheafstain": "assets/gallery/mist-her2/76M2100485_25_10_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-her2/76M2100485_25_10_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-her2/76M2100485_25_10_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-her2/76M2100485_25_10_pspstain.jpg",
+       "unsb": "assets/gallery/mist-her2/76M2100485_25_10_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-her2/76M2100485_25_10_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-her2/76M2100485_25_10_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "98M2004096_13_4",
+      "caption": "98M2004096_13_4",
+      "he": "assets/gallery/mist-her2/98M2004096_13_4_he_t.jpg",
+      "pred": "assets/gallery/mist-her2/98M2004096_13_4_pred_t.jpg",
+      "gt": "assets/gallery/mist-her2/98M2004096_13_4_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-her2/98M2004096_13_4_gt.jpg",
+       "sheafstain": "assets/gallery/mist-her2/98M2004096_13_4_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-her2/98M2004096_13_4_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-her2/98M2004096_13_4_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-her2/98M2004096_13_4_pspstain.jpg",
+       "unsb": "assets/gallery/mist-her2/98M2004096_13_4_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-her2/98M2004096_13_4_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-her2/98M2004096_13_4_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "45M2101377_19_17",
+      "caption": "Shown in the paper · 45M2101377_19_17",
+      "he": "assets/gallery/mist-her2/45M2101377_19_17_he_t.jpg",
+      "pred": "assets/gallery/mist-her2/45M2101377_19_17_pred_t.jpg",
+      "gt": "assets/gallery/mist-her2/45M2101377_19_17_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-her2/45M2101377_19_17_gt.jpg",
+       "sheafstain": "assets/gallery/mist-her2/45M2101377_19_17_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-her2/45M2101377_19_17_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-her2/45M2101377_19_17_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-her2/45M2101377_19_17_pspstain.jpg",
+       "unsb": "assets/gallery/mist-her2/45M2101377_19_17_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-her2/45M2101377_19_17_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-her2/45M2101377_19_17_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "4M2103059_21_13",
+      "caption": "4M2103059_21_13",
+      "he": "assets/gallery/mist-her2/4M2103059_21_13_he_t.jpg",
+      "pred": "assets/gallery/mist-her2/4M2103059_21_13_pred_t.jpg",
+      "gt": "assets/gallery/mist-her2/4M2103059_21_13_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-her2/4M2103059_21_13_gt.jpg",
+       "sheafstain": "assets/gallery/mist-her2/4M2103059_21_13_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-her2/4M2103059_21_13_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-her2/4M2103059_21_13_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-her2/4M2103059_21_13_pspstain.jpg",
+       "unsb": "assets/gallery/mist-her2/4M2103059_21_13_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-her2/4M2103059_21_13_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-her2/4M2103059_21_13_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "58M2100997_11_15",
+      "caption": "58M2100997_11_15",
+      "he": "assets/gallery/mist-her2/58M2100997_11_15_he_t.jpg",
+      "pred": "assets/gallery/mist-her2/58M2100997_11_15_pred_t.jpg",
+      "gt": "assets/gallery/mist-her2/58M2100997_11_15_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-her2/58M2100997_11_15_gt.jpg",
+       "sheafstain": "assets/gallery/mist-her2/58M2100997_11_15_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-her2/58M2100997_11_15_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-her2/58M2100997_11_15_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-her2/58M2100997_11_15_pspstain.jpg",
+       "unsb": "assets/gallery/mist-her2/58M2100997_11_15_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-her2/58M2100997_11_15_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-her2/58M2100997_11_15_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "23M2102136_22_7",
+      "caption": "Shown in the paper · 23M2102136_22_7",
+      "he": "assets/gallery/mist-her2/23M2102136_22_7_he_t.jpg",
+      "pred": "assets/gallery/mist-her2/23M2102136_22_7_pred_t.jpg",
+      "gt": "assets/gallery/mist-her2/23M2102136_22_7_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-her2/23M2102136_22_7_gt.jpg",
+       "sheafstain": "assets/gallery/mist-her2/23M2102136_22_7_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-her2/23M2102136_22_7_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-her2/23M2102136_22_7_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-her2/23M2102136_22_7_pspstain.jpg",
+       "unsb": "assets/gallery/mist-her2/23M2102136_22_7_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-her2/23M2102136_22_7_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-her2/23M2102136_22_7_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "31M2101871_35_16",
+      "caption": "Shown in the paper · 31M2101871_35_16",
+      "he": "assets/gallery/mist-her2/31M2101871_35_16_he_t.jpg",
+      "pred": "assets/gallery/mist-her2/31M2101871_35_16_pred_t.jpg",
+      "gt": "assets/gallery/mist-her2/31M2101871_35_16_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-her2/31M2101871_35_16_gt.jpg",
+       "sheafstain": "assets/gallery/mist-her2/31M2101871_35_16_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-her2/31M2101871_35_16_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-her2/31M2101871_35_16_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-her2/31M2101871_35_16_pspstain.jpg",
+       "unsb": "assets/gallery/mist-her2/31M2101871_35_16_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-her2/31M2101871_35_16_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-her2/31M2101871_35_16_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "12M2102884_8_9",
+      "caption": "12M2102884_8_9",
+      "he": "assets/gallery/mist-her2/12M2102884_8_9_he_t.jpg",
+      "pred": "assets/gallery/mist-her2/12M2102884_8_9_pred_t.jpg",
+      "gt": "assets/gallery/mist-her2/12M2102884_8_9_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-her2/12M2102884_8_9_gt.jpg",
+       "sheafstain": "assets/gallery/mist-her2/12M2102884_8_9_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-her2/12M2102884_8_9_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-her2/12M2102884_8_9_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-her2/12M2102884_8_9_pspstain.jpg",
+       "unsb": "assets/gallery/mist-her2/12M2102884_8_9_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-her2/12M2102884_8_9_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-her2/12M2102884_8_9_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "28M2101987_6_18",
+      "caption": "Shown in the paper · 28M2101987_6_18",
+      "he": "assets/gallery/mist-her2/28M2101987_6_18_he_t.jpg",
+      "pred": "assets/gallery/mist-her2/28M2101987_6_18_pred_t.jpg",
+      "gt": "assets/gallery/mist-her2/28M2101987_6_18_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-her2/28M2101987_6_18_gt.jpg",
+       "sheafstain": "assets/gallery/mist-her2/28M2101987_6_18_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-her2/28M2101987_6_18_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-her2/28M2101987_6_18_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-her2/28M2101987_6_18_pspstain.jpg",
+       "unsb": "assets/gallery/mist-her2/28M2101987_6_18_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-her2/28M2101987_6_18_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-her2/28M2101987_6_18_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "25M2102060_10_23",
+      "caption": "Shown in the paper · 25M2102060_10_23",
+      "he": "assets/gallery/mist-her2/25M2102060_10_23_he_t.jpg",
+      "pred": "assets/gallery/mist-her2/25M2102060_10_23_pred_t.jpg",
+      "gt": "assets/gallery/mist-her2/25M2102060_10_23_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-her2/25M2102060_10_23_gt.jpg",
+       "sheafstain": "assets/gallery/mist-her2/25M2102060_10_23_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-her2/25M2102060_10_23_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-her2/25M2102060_10_23_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-her2/25M2102060_10_23_pspstain.jpg",
+       "unsb": "assets/gallery/mist-her2/25M2102060_10_23_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-her2/25M2102060_10_23_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-her2/25M2102060_10_23_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "57M2101034_12_17",
+      "caption": "Shown in the paper · 57M2101034_12_17",
+      "he": "assets/gallery/mist-her2/57M2101034_12_17_he_t.jpg",
+      "pred": "assets/gallery/mist-her2/57M2101034_12_17_pred_t.jpg",
+      "gt": "assets/gallery/mist-her2/57M2101034_12_17_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-her2/57M2101034_12_17_gt.jpg",
+       "sheafstain": "assets/gallery/mist-her2/57M2101034_12_17_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-her2/57M2101034_12_17_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-her2/57M2101034_12_17_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-her2/57M2101034_12_17_pspstain.jpg",
+       "unsb": "assets/gallery/mist-her2/57M2101034_12_17_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-her2/57M2101034_12_17_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-her2/57M2101034_12_17_cyclegan.jpg"
+      }
+     }
+    ]
+   ]
+  },
+  {
+   "id": "mist-er",
+   "label": "MIST · ER",
+   "rows": [
+    [
+     {
+      "id": "48M2101314_46_22",
+      "caption": "Shown in the paper · 48M2101314_46_22",
+      "he": "assets/gallery/mist-er/48M2101314_46_22_he_t.jpg",
+      "pred": "assets/gallery/mist-er/48M2101314_46_22_pred_t.jpg",
+      "gt": "assets/gallery/mist-er/48M2101314_46_22_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-er/48M2101314_46_22_gt.jpg",
+       "sheafstain": "assets/gallery/mist-er/48M2101314_46_22_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-er/48M2101314_46_22_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-er/48M2101314_46_22_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-er/48M2101314_46_22_pspstain.jpg",
+       "unsb": "assets/gallery/mist-er/48M2101314_46_22_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-er/48M2101314_46_22_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-er/48M2101314_46_22_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "91M2100173_1_8",
+      "caption": "Shown in the paper · 91M2100173_1_8",
+      "he": "assets/gallery/mist-er/91M2100173_1_8_he_t.jpg",
+      "pred": "assets/gallery/mist-er/91M2100173_1_8_pred_t.jpg",
+      "gt": "assets/gallery/mist-er/91M2100173_1_8_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-er/91M2100173_1_8_gt.jpg",
+       "sheafstain": "assets/gallery/mist-er/91M2100173_1_8_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-er/91M2100173_1_8_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-er/91M2100173_1_8_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-er/91M2100173_1_8_pspstain.jpg",
+       "unsb": "assets/gallery/mist-er/91M2100173_1_8_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-er/91M2100173_1_8_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-er/91M2100173_1_8_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "91M2100173_32_14",
+      "caption": "91M2100173_32_14",
+      "he": "assets/gallery/mist-er/91M2100173_32_14_he_t.jpg",
+      "pred": "assets/gallery/mist-er/91M2100173_32_14_pred_t.jpg",
+      "gt": "assets/gallery/mist-er/91M2100173_32_14_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-er/91M2100173_32_14_gt.jpg",
+       "sheafstain": "assets/gallery/mist-er/91M2100173_32_14_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-er/91M2100173_32_14_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-er/91M2100173_32_14_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-er/91M2100173_32_14_pspstain.jpg",
+       "unsb": "assets/gallery/mist-er/91M2100173_32_14_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-er/91M2100173_32_14_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-er/91M2100173_32_14_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "16M2102718_15_20",
+      "caption": "Shown in the paper · 16M2102718_15_20",
+      "he": "assets/gallery/mist-er/16M2102718_15_20_he_t.jpg",
+      "pred": "assets/gallery/mist-er/16M2102718_15_20_pred_t.jpg",
+      "gt": "assets/gallery/mist-er/16M2102718_15_20_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-er/16M2102718_15_20_gt.jpg",
+       "sheafstain": "assets/gallery/mist-er/16M2102718_15_20_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-er/16M2102718_15_20_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-er/16M2102718_15_20_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-er/16M2102718_15_20_pspstain.jpg",
+       "unsb": "assets/gallery/mist-er/16M2102718_15_20_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-er/16M2102718_15_20_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-er/16M2102718_15_20_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "16M2102718_22_8",
+      "caption": "16M2102718_22_8",
+      "he": "assets/gallery/mist-er/16M2102718_22_8_he_t.jpg",
+      "pred": "assets/gallery/mist-er/16M2102718_22_8_pred_t.jpg",
+      "gt": "assets/gallery/mist-er/16M2102718_22_8_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-er/16M2102718_22_8_gt.jpg",
+       "sheafstain": "assets/gallery/mist-er/16M2102718_22_8_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-er/16M2102718_22_8_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-er/16M2102718_22_8_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-er/16M2102718_22_8_pspstain.jpg",
+       "unsb": "assets/gallery/mist-er/16M2102718_22_8_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-er/16M2102718_22_8_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-er/16M2102718_22_8_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "8M2103001_10_13",
+      "caption": "8M2103001_10_13",
+      "he": "assets/gallery/mist-er/8M2103001_10_13_he_t.jpg",
+      "pred": "assets/gallery/mist-er/8M2103001_10_13_pred_t.jpg",
+      "gt": "assets/gallery/mist-er/8M2103001_10_13_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-er/8M2103001_10_13_gt.jpg",
+       "sheafstain": "assets/gallery/mist-er/8M2103001_10_13_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-er/8M2103001_10_13_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-er/8M2103001_10_13_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-er/8M2103001_10_13_pspstain.jpg",
+       "unsb": "assets/gallery/mist-er/8M2103001_10_13_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-er/8M2103001_10_13_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-er/8M2103001_10_13_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "16M2102718_17_18",
+      "caption": "Shown in the paper · 16M2102718_17_18",
+      "he": "assets/gallery/mist-er/16M2102718_17_18_he_t.jpg",
+      "pred": "assets/gallery/mist-er/16M2102718_17_18_pred_t.jpg",
+      "gt": "assets/gallery/mist-er/16M2102718_17_18_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-er/16M2102718_17_18_gt.jpg",
+       "sheafstain": "assets/gallery/mist-er/16M2102718_17_18_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-er/16M2102718_17_18_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-er/16M2102718_17_18_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-er/16M2102718_17_18_pspstain.jpg",
+       "unsb": "assets/gallery/mist-er/16M2102718_17_18_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-er/16M2102718_17_18_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-er/16M2102718_17_18_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "77M2100464_28_10",
+      "caption": "77M2100464_28_10",
+      "he": "assets/gallery/mist-er/77M2100464_28_10_he_t.jpg",
+      "pred": "assets/gallery/mist-er/77M2100464_28_10_pred_t.jpg",
+      "gt": "assets/gallery/mist-er/77M2100464_28_10_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-er/77M2100464_28_10_gt.jpg",
+       "sheafstain": "assets/gallery/mist-er/77M2100464_28_10_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-er/77M2100464_28_10_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-er/77M2100464_28_10_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-er/77M2100464_28_10_pspstain.jpg",
+       "unsb": "assets/gallery/mist-er/77M2100464_28_10_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-er/77M2100464_28_10_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-er/77M2100464_28_10_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "47M2101316_9_28",
+      "caption": "47M2101316_9_28",
+      "he": "assets/gallery/mist-er/47M2101316_9_28_he_t.jpg",
+      "pred": "assets/gallery/mist-er/47M2101316_9_28_pred_t.jpg",
+      "gt": "assets/gallery/mist-er/47M2101316_9_28_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-er/47M2101316_9_28_gt.jpg",
+       "sheafstain": "assets/gallery/mist-er/47M2101316_9_28_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-er/47M2101316_9_28_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-er/47M2101316_9_28_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-er/47M2101316_9_28_pspstain.jpg",
+       "unsb": "assets/gallery/mist-er/47M2101316_9_28_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-er/47M2101316_9_28_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-er/47M2101316_9_28_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "75M2100521_19_10",
+      "caption": "Shown in the paper · 75M2100521_19_10",
+      "he": "assets/gallery/mist-er/75M2100521_19_10_he_t.jpg",
+      "pred": "assets/gallery/mist-er/75M2100521_19_10_pred_t.jpg",
+      "gt": "assets/gallery/mist-er/75M2100521_19_10_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-er/75M2100521_19_10_gt.jpg",
+       "sheafstain": "assets/gallery/mist-er/75M2100521_19_10_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-er/75M2100521_19_10_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-er/75M2100521_19_10_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-er/75M2100521_19_10_pspstain.jpg",
+       "unsb": "assets/gallery/mist-er/75M2100521_19_10_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-er/75M2100521_19_10_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-er/75M2100521_19_10_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "75M2100521_9_13",
+      "caption": "Shown in the paper · 75M2100521_9_13",
+      "he": "assets/gallery/mist-er/75M2100521_9_13_he_t.jpg",
+      "pred": "assets/gallery/mist-er/75M2100521_9_13_pred_t.jpg",
+      "gt": "assets/gallery/mist-er/75M2100521_9_13_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-er/75M2100521_9_13_gt.jpg",
+       "sheafstain": "assets/gallery/mist-er/75M2100521_9_13_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-er/75M2100521_9_13_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-er/75M2100521_9_13_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-er/75M2100521_9_13_pspstain.jpg",
+       "unsb": "assets/gallery/mist-er/75M2100521_9_13_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-er/75M2100521_9_13_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-er/75M2100521_9_13_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "31M2101871_37_15",
+      "caption": "31M2101871_37_15",
+      "he": "assets/gallery/mist-er/31M2101871_37_15_he_t.jpg",
+      "pred": "assets/gallery/mist-er/31M2101871_37_15_pred_t.jpg",
+      "gt": "assets/gallery/mist-er/31M2101871_37_15_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-er/31M2101871_37_15_gt.jpg",
+       "sheafstain": "assets/gallery/mist-er/31M2101871_37_15_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-er/31M2101871_37_15_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-er/31M2101871_37_15_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-er/31M2101871_37_15_pspstain.jpg",
+       "unsb": "assets/gallery/mist-er/31M2101871_37_15_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-er/31M2101871_37_15_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-er/31M2101871_37_15_cyclegan.jpg"
+      }
+     }
+    ]
+   ]
+  },
+  {
+   "id": "mist-pr",
+   "label": "MIST · PR",
+   "rows": [
+    [
+     {
+      "id": "56M2101083_32_21",
+      "caption": "Shown in the paper · 56M2101083_32_21",
+      "he": "assets/gallery/mist-pr/56M2101083_32_21_he_t.jpg",
+      "pred": "assets/gallery/mist-pr/56M2101083_32_21_pred_t.jpg",
+      "gt": "assets/gallery/mist-pr/56M2101083_32_21_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-pr/56M2101083_32_21_gt.jpg",
+       "sheafstain": "assets/gallery/mist-pr/56M2101083_32_21_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-pr/56M2101083_32_21_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-pr/56M2101083_32_21_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-pr/56M2101083_32_21_pspstain.jpg",
+       "unsb": "assets/gallery/mist-pr/56M2101083_32_21_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-pr/56M2101083_32_21_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-pr/56M2101083_32_21_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "80M2100377_32_25",
+      "caption": "80M2100377_32_25",
+      "he": "assets/gallery/mist-pr/80M2100377_32_25_he_t.jpg",
+      "pred": "assets/gallery/mist-pr/80M2100377_32_25_pred_t.jpg",
+      "gt": "assets/gallery/mist-pr/80M2100377_32_25_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-pr/80M2100377_32_25_gt.jpg",
+       "sheafstain": "assets/gallery/mist-pr/80M2100377_32_25_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-pr/80M2100377_32_25_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-pr/80M2100377_32_25_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-pr/80M2100377_32_25_pspstain.jpg",
+       "unsb": "assets/gallery/mist-pr/80M2100377_32_25_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-pr/80M2100377_32_25_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-pr/80M2100377_32_25_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "15M2102762_19_23",
+      "caption": "15M2102762_19_23",
+      "he": "assets/gallery/mist-pr/15M2102762_19_23_he_t.jpg",
+      "pred": "assets/gallery/mist-pr/15M2102762_19_23_pred_t.jpg",
+      "gt": "assets/gallery/mist-pr/15M2102762_19_23_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-pr/15M2102762_19_23_gt.jpg",
+       "sheafstain": "assets/gallery/mist-pr/15M2102762_19_23_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-pr/15M2102762_19_23_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-pr/15M2102762_19_23_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-pr/15M2102762_19_23_pspstain.jpg",
+       "unsb": "assets/gallery/mist-pr/15M2102762_19_23_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-pr/15M2102762_19_23_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-pr/15M2102762_19_23_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "52M2101275_6_7",
+      "caption": "52M2101275_6_7",
+      "he": "assets/gallery/mist-pr/52M2101275_6_7_he_t.jpg",
+      "pred": "assets/gallery/mist-pr/52M2101275_6_7_pred_t.jpg",
+      "gt": "assets/gallery/mist-pr/52M2101275_6_7_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-pr/52M2101275_6_7_gt.jpg",
+       "sheafstain": "assets/gallery/mist-pr/52M2101275_6_7_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-pr/52M2101275_6_7_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-pr/52M2101275_6_7_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-pr/52M2101275_6_7_pspstain.jpg",
+       "unsb": "assets/gallery/mist-pr/52M2101275_6_7_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-pr/52M2101275_6_7_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-pr/52M2101275_6_7_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "56M2101083_31_15",
+      "caption": "56M2101083_31_15",
+      "he": "assets/gallery/mist-pr/56M2101083_31_15_he_t.jpg",
+      "pred": "assets/gallery/mist-pr/56M2101083_31_15_pred_t.jpg",
+      "gt": "assets/gallery/mist-pr/56M2101083_31_15_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-pr/56M2101083_31_15_gt.jpg",
+       "sheafstain": "assets/gallery/mist-pr/56M2101083_31_15_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-pr/56M2101083_31_15_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-pr/56M2101083_31_15_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-pr/56M2101083_31_15_pspstain.jpg",
+       "unsb": "assets/gallery/mist-pr/56M2101083_31_15_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-pr/56M2101083_31_15_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-pr/56M2101083_31_15_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "97M2100034_17_14",
+      "caption": "97M2100034_17_14",
+      "he": "assets/gallery/mist-pr/97M2100034_17_14_he_t.jpg",
+      "pred": "assets/gallery/mist-pr/97M2100034_17_14_pred_t.jpg",
+      "gt": "assets/gallery/mist-pr/97M2100034_17_14_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-pr/97M2100034_17_14_gt.jpg",
+       "sheafstain": "assets/gallery/mist-pr/97M2100034_17_14_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-pr/97M2100034_17_14_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-pr/97M2100034_17_14_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-pr/97M2100034_17_14_pspstain.jpg",
+       "unsb": "assets/gallery/mist-pr/97M2100034_17_14_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-pr/97M2100034_17_14_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-pr/97M2100034_17_14_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "28M2101987_38_12",
+      "caption": "Shown in the paper · 28M2101987_38_12",
+      "he": "assets/gallery/mist-pr/28M2101987_38_12_he_t.jpg",
+      "pred": "assets/gallery/mist-pr/28M2101987_38_12_pred_t.jpg",
+      "gt": "assets/gallery/mist-pr/28M2101987_38_12_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-pr/28M2101987_38_12_gt.jpg",
+       "sheafstain": "assets/gallery/mist-pr/28M2101987_38_12_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-pr/28M2101987_38_12_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-pr/28M2101987_38_12_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-pr/28M2101987_38_12_pspstain.jpg",
+       "unsb": "assets/gallery/mist-pr/28M2101987_38_12_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-pr/28M2101987_38_12_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-pr/28M2101987_38_12_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "16M2102718_19_17",
+      "caption": "Shown in the paper · 16M2102718_19_17",
+      "he": "assets/gallery/mist-pr/16M2102718_19_17_he_t.jpg",
+      "pred": "assets/gallery/mist-pr/16M2102718_19_17_pred_t.jpg",
+      "gt": "assets/gallery/mist-pr/16M2102718_19_17_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-pr/16M2102718_19_17_gt.jpg",
+       "sheafstain": "assets/gallery/mist-pr/16M2102718_19_17_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-pr/16M2102718_19_17_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-pr/16M2102718_19_17_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-pr/16M2102718_19_17_pspstain.jpg",
+       "unsb": "assets/gallery/mist-pr/16M2102718_19_17_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-pr/16M2102718_19_17_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-pr/16M2102718_19_17_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "47M2101316_15_29",
+      "caption": "47M2101316_15_29",
+      "he": "assets/gallery/mist-pr/47M2101316_15_29_he_t.jpg",
+      "pred": "assets/gallery/mist-pr/47M2101316_15_29_pred_t.jpg",
+      "gt": "assets/gallery/mist-pr/47M2101316_15_29_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-pr/47M2101316_15_29_gt.jpg",
+       "sheafstain": "assets/gallery/mist-pr/47M2101316_15_29_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-pr/47M2101316_15_29_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-pr/47M2101316_15_29_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-pr/47M2101316_15_29_pspstain.jpg",
+       "unsb": "assets/gallery/mist-pr/47M2101316_15_29_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-pr/47M2101316_15_29_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-pr/47M2101316_15_29_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "16M2102718_21_17",
+      "caption": "Shown in the paper · 16M2102718_21_17",
+      "he": "assets/gallery/mist-pr/16M2102718_21_17_he_t.jpg",
+      "pred": "assets/gallery/mist-pr/16M2102718_21_17_pred_t.jpg",
+      "gt": "assets/gallery/mist-pr/16M2102718_21_17_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-pr/16M2102718_21_17_gt.jpg",
+       "sheafstain": "assets/gallery/mist-pr/16M2102718_21_17_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-pr/16M2102718_21_17_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-pr/16M2102718_21_17_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-pr/16M2102718_21_17_pspstain.jpg",
+       "unsb": "assets/gallery/mist-pr/16M2102718_21_17_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-pr/16M2102718_21_17_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-pr/16M2102718_21_17_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "75M2100521_10_17",
+      "caption": "Shown in the paper · 75M2100521_10_17",
+      "he": "assets/gallery/mist-pr/75M2100521_10_17_he_t.jpg",
+      "pred": "assets/gallery/mist-pr/75M2100521_10_17_pred_t.jpg",
+      "gt": "assets/gallery/mist-pr/75M2100521_10_17_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-pr/75M2100521_10_17_gt.jpg",
+       "sheafstain": "assets/gallery/mist-pr/75M2100521_10_17_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-pr/75M2100521_10_17_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-pr/75M2100521_10_17_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-pr/75M2100521_10_17_pspstain.jpg",
+       "unsb": "assets/gallery/mist-pr/75M2100521_10_17_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-pr/75M2100521_10_17_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-pr/75M2100521_10_17_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "58M2100997_10_14",
+      "caption": "Shown in the paper · 58M2100997_10_14",
+      "he": "assets/gallery/mist-pr/58M2100997_10_14_he_t.jpg",
+      "pred": "assets/gallery/mist-pr/58M2100997_10_14_pred_t.jpg",
+      "gt": "assets/gallery/mist-pr/58M2100997_10_14_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-pr/58M2100997_10_14_gt.jpg",
+       "sheafstain": "assets/gallery/mist-pr/58M2100997_10_14_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-pr/58M2100997_10_14_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-pr/58M2100997_10_14_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-pr/58M2100997_10_14_pspstain.jpg",
+       "unsb": "assets/gallery/mist-pr/58M2100997_10_14_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-pr/58M2100997_10_14_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-pr/58M2100997_10_14_cyclegan.jpg"
+      }
+     }
+    ]
+   ]
+  },
+  {
+   "id": "mist-ki67",
+   "label": "MIST · Ki-67",
+   "rows": [
+    [
+     {
+      "id": "43M2101514_13_12",
+      "caption": "Shown in the paper · 43M2101514_13_12",
+      "he": "assets/gallery/mist-ki67/43M2101514_13_12_he_t.jpg",
+      "pred": "assets/gallery/mist-ki67/43M2101514_13_12_pred_t.jpg",
+      "gt": "assets/gallery/mist-ki67/43M2101514_13_12_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-ki67/43M2101514_13_12_gt.jpg",
+       "sheafstain": "assets/gallery/mist-ki67/43M2101514_13_12_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-ki67/43M2101514_13_12_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-ki67/43M2101514_13_12_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-ki67/43M2101514_13_12_pspstain.jpg",
+       "unsb": "assets/gallery/mist-ki67/43M2101514_13_12_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-ki67/43M2101514_13_12_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-ki67/43M2101514_13_12_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "35M2101733_9_7",
+      "caption": "Shown in the paper · 35M2101733_9_7",
+      "he": "assets/gallery/mist-ki67/35M2101733_9_7_he_t.jpg",
+      "pred": "assets/gallery/mist-ki67/35M2101733_9_7_pred_t.jpg",
+      "gt": "assets/gallery/mist-ki67/35M2101733_9_7_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-ki67/35M2101733_9_7_gt.jpg",
+       "sheafstain": "assets/gallery/mist-ki67/35M2101733_9_7_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-ki67/35M2101733_9_7_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-ki67/35M2101733_9_7_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-ki67/35M2101733_9_7_pspstain.jpg",
+       "unsb": "assets/gallery/mist-ki67/35M2101733_9_7_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-ki67/35M2101733_9_7_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-ki67/35M2101733_9_7_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "66M2100648_6_9",
+      "caption": "66M2100648_6_9",
+      "he": "assets/gallery/mist-ki67/66M2100648_6_9_he_t.jpg",
+      "pred": "assets/gallery/mist-ki67/66M2100648_6_9_pred_t.jpg",
+      "gt": "assets/gallery/mist-ki67/66M2100648_6_9_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-ki67/66M2100648_6_9_gt.jpg",
+       "sheafstain": "assets/gallery/mist-ki67/66M2100648_6_9_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-ki67/66M2100648_6_9_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-ki67/66M2100648_6_9_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-ki67/66M2100648_6_9_pspstain.jpg",
+       "unsb": "assets/gallery/mist-ki67/66M2100648_6_9_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-ki67/66M2100648_6_9_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-ki67/66M2100648_6_9_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "52M2101275_7_9",
+      "caption": "Shown in the paper · 52M2101275_7_9",
+      "he": "assets/gallery/mist-ki67/52M2101275_7_9_he_t.jpg",
+      "pred": "assets/gallery/mist-ki67/52M2101275_7_9_pred_t.jpg",
+      "gt": "assets/gallery/mist-ki67/52M2101275_7_9_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-ki67/52M2101275_7_9_gt.jpg",
+       "sheafstain": "assets/gallery/mist-ki67/52M2101275_7_9_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-ki67/52M2101275_7_9_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-ki67/52M2101275_7_9_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-ki67/52M2101275_7_9_pspstain.jpg",
+       "unsb": "assets/gallery/mist-ki67/52M2101275_7_9_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-ki67/52M2101275_7_9_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-ki67/52M2101275_7_9_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "17M2102569_14_8",
+      "caption": "17M2102569_14_8",
+      "he": "assets/gallery/mist-ki67/17M2102569_14_8_he_t.jpg",
+      "pred": "assets/gallery/mist-ki67/17M2102569_14_8_pred_t.jpg",
+      "gt": "assets/gallery/mist-ki67/17M2102569_14_8_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-ki67/17M2102569_14_8_gt.jpg",
+       "sheafstain": "assets/gallery/mist-ki67/17M2102569_14_8_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-ki67/17M2102569_14_8_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-ki67/17M2102569_14_8_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-ki67/17M2102569_14_8_pspstain.jpg",
+       "unsb": "assets/gallery/mist-ki67/17M2102569_14_8_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-ki67/17M2102569_14_8_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-ki67/17M2102569_14_8_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "93M2100147_8_15",
+      "caption": "93M2100147_8_15",
+      "he": "assets/gallery/mist-ki67/93M2100147_8_15_he_t.jpg",
+      "pred": "assets/gallery/mist-ki67/93M2100147_8_15_pred_t.jpg",
+      "gt": "assets/gallery/mist-ki67/93M2100147_8_15_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-ki67/93M2100147_8_15_gt.jpg",
+       "sheafstain": "assets/gallery/mist-ki67/93M2100147_8_15_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-ki67/93M2100147_8_15_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-ki67/93M2100147_8_15_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-ki67/93M2100147_8_15_pspstain.jpg",
+       "unsb": "assets/gallery/mist-ki67/93M2100147_8_15_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-ki67/93M2100147_8_15_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-ki67/93M2100147_8_15_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "45M2101377_26_9",
+      "caption": "Shown in the paper · 45M2101377_26_9",
+      "he": "assets/gallery/mist-ki67/45M2101377_26_9_he_t.jpg",
+      "pred": "assets/gallery/mist-ki67/45M2101377_26_9_pred_t.jpg",
+      "gt": "assets/gallery/mist-ki67/45M2101377_26_9_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-ki67/45M2101377_26_9_gt.jpg",
+       "sheafstain": "assets/gallery/mist-ki67/45M2101377_26_9_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-ki67/45M2101377_26_9_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-ki67/45M2101377_26_9_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-ki67/45M2101377_26_9_pspstain.jpg",
+       "unsb": "assets/gallery/mist-ki67/45M2101377_26_9_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-ki67/45M2101377_26_9_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-ki67/45M2101377_26_9_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "56M2101083_19_11",
+      "caption": "Shown in the paper · 56M2101083_19_11",
+      "he": "assets/gallery/mist-ki67/56M2101083_19_11_he_t.jpg",
+      "pred": "assets/gallery/mist-ki67/56M2101083_19_11_pred_t.jpg",
+      "gt": "assets/gallery/mist-ki67/56M2101083_19_11_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-ki67/56M2101083_19_11_gt.jpg",
+       "sheafstain": "assets/gallery/mist-ki67/56M2101083_19_11_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-ki67/56M2101083_19_11_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-ki67/56M2101083_19_11_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-ki67/56M2101083_19_11_pspstain.jpg",
+       "unsb": "assets/gallery/mist-ki67/56M2101083_19_11_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-ki67/56M2101083_19_11_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-ki67/56M2101083_19_11_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "93M2100147_11_24",
+      "caption": "93M2100147_11_24",
+      "he": "assets/gallery/mist-ki67/93M2100147_11_24_he_t.jpg",
+      "pred": "assets/gallery/mist-ki67/93M2100147_11_24_pred_t.jpg",
+      "gt": "assets/gallery/mist-ki67/93M2100147_11_24_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-ki67/93M2100147_11_24_gt.jpg",
+       "sheafstain": "assets/gallery/mist-ki67/93M2100147_11_24_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-ki67/93M2100147_11_24_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-ki67/93M2100147_11_24_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-ki67/93M2100147_11_24_pspstain.jpg",
+       "unsb": "assets/gallery/mist-ki67/93M2100147_11_24_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-ki67/93M2100147_11_24_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-ki67/93M2100147_11_24_cyclegan.jpg"
+      }
+     }
+    ],
+    [
+     {
+      "id": "56M2101083_29_36",
+      "caption": "Shown in the paper · 56M2101083_29_36",
+      "he": "assets/gallery/mist-ki67/56M2101083_29_36_he_t.jpg",
+      "pred": "assets/gallery/mist-ki67/56M2101083_29_36_pred_t.jpg",
+      "gt": "assets/gallery/mist-ki67/56M2101083_29_36_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-ki67/56M2101083_29_36_gt.jpg",
+       "sheafstain": "assets/gallery/mist-ki67/56M2101083_29_36_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-ki67/56M2101083_29_36_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-ki67/56M2101083_29_36_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-ki67/56M2101083_29_36_pspstain.jpg",
+       "unsb": "assets/gallery/mist-ki67/56M2101083_29_36_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-ki67/56M2101083_29_36_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-ki67/56M2101083_29_36_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "50M2101298_17_11",
+      "caption": "50M2101298_17_11",
+      "he": "assets/gallery/mist-ki67/50M2101298_17_11_he_t.jpg",
+      "pred": "assets/gallery/mist-ki67/50M2101298_17_11_pred_t.jpg",
+      "gt": "assets/gallery/mist-ki67/50M2101298_17_11_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-ki67/50M2101298_17_11_gt.jpg",
+       "sheafstain": "assets/gallery/mist-ki67/50M2101298_17_11_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-ki67/50M2101298_17_11_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-ki67/50M2101298_17_11_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-ki67/50M2101298_17_11_pspstain.jpg",
+       "unsb": "assets/gallery/mist-ki67/50M2101298_17_11_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-ki67/50M2101298_17_11_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-ki67/50M2101298_17_11_cyclegan.jpg"
+      }
+     },
+     {
+      "id": "47M2101316_7_28",
+      "caption": "47M2101316_7_28",
+      "he": "assets/gallery/mist-ki67/47M2101316_7_28_he_t.jpg",
+      "pred": "assets/gallery/mist-ki67/47M2101316_7_28_pred_t.jpg",
+      "gt": "assets/gallery/mist-ki67/47M2101316_7_28_gt_t.jpg",
+      "full": {
+       "gt": "assets/gallery/mist-ki67/47M2101316_7_28_gt.jpg",
+       "sheafstain": "assets/gallery/mist-ki67/47M2101316_7_28_sheafstain.jpg",
+       "dvst": "assets/gallery/mist-ki67/47M2101316_7_28_dvst.jpg",
+       "unistainnet": "assets/gallery/mist-ki67/47M2101316_7_28_unistainnet.jpg",
+       "pspstain": "assets/gallery/mist-ki67/47M2101316_7_28_pspstain.jpg",
+       "unsb": "assets/gallery/mist-ki67/47M2101316_7_28_unsb.jpg",
+       "pix2pix": "assets/gallery/mist-ki67/47M2101316_7_28_pix2pix.jpg",
+       "cyclegan": "assets/gallery/mist-ki67/47M2101316_7_28_cyclegan.jpg"
+      }
+     }
+    ]
+   ]
+  }
+ ],
+ "hero": {
+  "tiles": [
+   {
+    "src": "assets/gallery/bci-her2/00372_test_pred_t.jpg",
+    "alt": "SheafStain virtual IHC, BCI · HER2"
+   },
+   {
+    "src": "assets/gallery/mist-er/48M2101314_46_22_pred_t.jpg",
+    "alt": "SheafStain virtual IHC, MIST · ER"
+   },
+   {
+    "src": "assets/gallery/mist-pr/56M2101083_32_21_pred_t.jpg",
+    "alt": "SheafStain virtual IHC, MIST · PR"
+   },
+   {
+    "src": "assets/gallery/bci-her2/00337_test_pred_t.jpg",
+    "alt": "SheafStain virtual IHC, BCI · HER2"
+   },
+   {
+    "src": "assets/gallery/mist-her2/31M2101871_35_16_pred_t.jpg",
+    "alt": "SheafStain virtual IHC, MIST · HER2"
+   },
+   {
+    "src": "assets/gallery/mist-er/16M2102718_15_20_pred_t.jpg",
+    "alt": "SheafStain virtual IHC, MIST · ER"
+   },
+   {
+    "src": "assets/gallery/mist-ki67/52M2101275_7_9_pred_t.jpg",
+    "alt": "SheafStain virtual IHC, MIST · Ki-67"
+   },
+   {
+    "src": "assets/gallery/bci-her2/00865_test_pred_t.jpg",
+    "alt": "SheafStain virtual IHC, BCI · HER2"
+   },
+   {
+    "src": "assets/gallery/mist-pr/58M2100997_10_14_pred_t.jpg",
+    "alt": "SheafStain virtual IHC, MIST · PR"
+   },
+   {
+    "src": "assets/gallery/bci-her2/00566_test_pred_t.jpg",
+    "alt": "SheafStain virtual IHC, BCI · HER2"
+   },
+   {
+    "src": "assets/gallery/mist-her2/57M2101034_12_17_pred_t.jpg",
+    "alt": "SheafStain virtual IHC, MIST · HER2"
+   },
+   {
+    "src": "assets/gallery/mist-er/75M2100521_9_13_pred_t.jpg",
+    "alt": "SheafStain virtual IHC, MIST · ER"
+   }
+  ]
+ },
+ "methods": [
+  {
+   "key": "gt",
+   "label": "IHC (Ground Truth)"
+  },
+  {
+   "key": "sheafstain",
+   "label": "SheafStain"
+  },
+  {
+   "key": "dvst",
+   "label": "D-VST"
+  },
+  {
+   "key": "unistainnet",
+   "label": "UNIStainNet"
+  },
+  {
+   "key": "pspstain",
+   "label": "PSPStain"
+  },
+  {
+   "key": "unsb",
+   "label": "UNSB"
+  },
+  {
+   "key": "pix2pix",
+   "label": "Pix2Pix"
+  },
+  {
+   "key": "cyclegan",
+   "label": "CycleGAN"
+  }
+ ]
+}
